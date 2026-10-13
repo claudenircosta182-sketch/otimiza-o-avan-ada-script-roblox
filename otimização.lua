@@ -1,5 +1,5 @@
 -- ==========================================
--- SCRIPT DE OTIMIZACAO AVANCADA (ANTI-LAG V1)
+-- SCRIPT DE OTIMIZAÇÃO AVANÇADA (ANTI-LAG V1)
 -- ==========================================
 
 local Players = game:GetService("Players")
